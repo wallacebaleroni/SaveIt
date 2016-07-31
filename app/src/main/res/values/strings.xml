@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SaveIt</string>
+    <string name="objetivo">Objetivo:</string>
+    <string name="corrente">Corrente:</string>
+    <string name="stockValue">StockValue</string>
+    <string name="novo_projeto">Novo Projeto</string>
+    <string name="ok">Ok</string>
+    <string name="cancelit">Cancelar</string>
+    <string name="nome">Nome:</string>
+    <string name="nome_vazio">Campo nome inválido: vazio</string>
+    <string name="alterar_nome">Alterar nome</string>
+    <string name="excluir">Excluir</string>
+    <string name="novo_nome">Novo nome:</string>
+    <string name="aviso_excluir">Tem certeza que deseja excluir esse projeto?</string>
+    <string name="sim">Sim</string>
+</resources>
